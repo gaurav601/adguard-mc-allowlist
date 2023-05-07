@@ -1,1 +1,2 @@
 title.mgt.xboxlive.com
+xsts.auth.xboxlive.com
